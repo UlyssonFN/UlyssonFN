@@ -14,14 +14,101 @@ I have experience in logistics operations, planning, performance management and 
 - 🧠 Building practical projects to strengthen my programming skills
 ---
 ## 🛠️ Technologies & Tools
-**Data & BI**
-`Python` `Pandas` `Power BI` `DAX` `Excel` `Power Query`
-**Databases**
-`SQL` `Oracle` `SQLite`
-**Development**
-`Python` `Streamlit` `Tkinter` `Git` `GitHub`
-**Currently studying**
-`Software Engineering` `Programming` `Data Structures` `Software Architecture`
+```html
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Matplotlib" 
+    title="Matplotlib"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Streamlit" 
+    title="Streamlit"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Oracle" 
+    title="Oracle"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powerbi/powerbi-original.svg" 
+/>
+
+<br/>
+<br/>
+```
+
 
 ---
 ## 📂 Featured Projects

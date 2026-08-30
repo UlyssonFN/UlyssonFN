@@ -133,9 +133,12 @@ Projetos desenvolvidos em **Python** com foco na aplicação de programação pa
 
 Sistema de Ponto de Venda desenvolvido utilizando **Python, Streamlit e SQLite**, com foco na aplicação prática de conceitos de programação, banco de dados e desenvolvimento de sistemas.
 
+🔗 [Acessar SaaS](https://app.datastockbi.com.br/)
+
 ### 📦 Projetos de Dados e Business Intelligence
 
 Desenvolvimento de análises, indicadores, dashboards e processos de tratamento de dados utilizando **Power BI, Power Query, SQL, Excel e Python**.
+🔗 [Acessar SaaS](https://datastockbi.com.br/portfolio)
 
 ---
 

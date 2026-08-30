@@ -160,9 +160,9 @@ Meu objetivo é transformar problemas reais de negócio em **soluções baseadas
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ulysson-fontenele-nobre-287a26125/)
 [![GitHub](https://img.shields.io/badge/GitHub-UlyssonFN-black?style=for-the-badge\&logo=github)](https://github.com/UlyssonFN)
+[![Site-Portifólio](https://datastockbi.com.br/)](https://datastockbi.com.br/)
 
 ---
 

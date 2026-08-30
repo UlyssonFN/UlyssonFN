@@ -1,10 +1,8 @@
-# Olá, eu sou Ulysson 👋
+# Olá, eu sou Ulysson 
 
 ### Logística | Dados | Business Intelligence | Python
 
-Profissional de **Logística** com experiência em operações, planejamento, indicadores e gestão, utilizando **dados e tecnologia para melhorar processos e resultados**.
-
-Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em **Python, análise de dados e desenvolvimento de aplicações**, enquanto curso **Engenharia de Software**.
+Profissional de **Logística** com experiência em operações, planejamento, indicadores e gestão, utilizando **dados e tecnologia para melhorar processos e resultados**. Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em **Python, análise de dados e desenvolvimento de aplicações**, enquanto curso **Engenharia de Software**.
 
 ---
 
@@ -124,20 +122,18 @@ Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em 
 ## 📂 Projetos
 
 ### 🏭 Mini Projetos — Indústria e Operações
-
 Projetos desenvolvidos em **Python** com foco na aplicação de programação para problemas relacionados à operação, produtividade e análise de dados.
 
 🔗 [Acessar repositório](https://github.com/UlyssonFN/Mini_Projetos_Industria_2026)
 
 ### 🏪 Sistema PDV
-
 Sistema de Ponto de Venda desenvolvido utilizando **Python, Streamlit e SQLite**, com foco na aplicação prática de conceitos de programação, banco de dados e desenvolvimento de sistemas.
 
 🔗 [Acessar SaaS](https://app.datastockbi.com.br/)
 
 ### 📦 Projetos de Dados e Business Intelligence
-
 Desenvolvimento de análises, indicadores, dashboards e processos de tratamento de dados utilizando **Power BI, Power Query, SQL, Excel e Python**.
+
 🔗 [Acessar Portifólio](https://datastockbi.com.br/portfolio)
 
 ---
@@ -164,9 +160,11 @@ Meu objetivo é transformar problemas reais de negócio em **soluções baseadas
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ulysson-fontenele-nobre-287a26125/)
-[![GitHub](https://img.shields.io/badge/GitHub-UlyssonFN-black?style=for-the-badge\&logo=github)](https://github.com/UlyssonFN)
-[![Site-Portifólio](https://datastockbi.com.br/)](https://datastockbi.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulysson-fontenele-nobre-287a26125/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-UlyssonFN-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UlyssonFN)
+
+[![DataStockBI](https://img.shields.io/badge/DataStockBI-Portfólio-2E7D32?style=for-the-badge&logo=googlechrome&logoColor=white)](https://datastockbi.com.br/)
 
 ---
 

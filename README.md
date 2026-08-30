@@ -111,7 +111,7 @@ Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em 
     title="Power BI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/powerbi.svg" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/powerbi.svg"  
 />
 
 <br/>

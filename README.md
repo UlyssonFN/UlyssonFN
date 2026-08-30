@@ -138,7 +138,7 @@ Sistema de Ponto de Venda desenvolvido utilizando **Python, Streamlit e SQLite**
 ### 📦 Projetos de Dados e Business Intelligence
 
 Desenvolvimento de análises, indicadores, dashboards e processos de tratamento de dados utilizando **Power BI, Power Query, SQL, Excel e Python**.
-🔗 [Acessar SaaS](https://datastockbi.com.br/portfolio)
+🔗 [Acessar Portifólio](https://datastockbi.com.br/portfolio)
 
 ---
 

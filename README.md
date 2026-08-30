@@ -168,4 +168,7 @@ Meu objetivo é transformar problemas reais de negócio em **soluções baseadas
 
 ---
 
+[![DataStockBI](https://github.com/UlyssonFN/UlyssonFN/blob/main/Capa_DataScotck_Capacitacoes.png)](https://datastockbi.com.br/)
+
 ⭐ *Transformando experiência operacional em soluções com dados e tecnologia.*
+

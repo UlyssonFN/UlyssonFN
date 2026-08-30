@@ -8,20 +8,6 @@ Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em 
 
 ---
 
-## 🚀 Sobre mim
-
-* 📦 Experiência profissional em **Logística e Operações**
-* 📊 Experiência com **Business Intelligence e análise de dados**
-* 🐍 Desenvolvimento de projetos em **Python**
-* 📈 Criação de dashboards e indicadores com **Power BI**
-* 🗄️ Consultas e tratamento de dados utilizando **SQL e Oracle**
-* ⚙️ Automação de processos com **Python, Excel e VBA**
-* 🌐 Desenvolvimento de aplicações utilizando **Streamlit**
-* 💾 Desenvolvimento de sistemas utilizando **SQLite**
-* 🔧 Versionamento de projetos com **Git e GitHub**
-
----
-
 ## 🛠️ Tecnologias e Ferramentas
 
 <img 
@@ -117,6 +103,21 @@ Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em 
 <br/>
 <br/>
 
+
+---
+
+
+## 🚀 Sobre mim
+
+* 📦 Experiência profissional em **Logística e Operações**
+* 📊 Experiência com **Business Intelligence e análise de dados**
+* 🐍 Desenvolvimento de projetos em **Python**
+* 📈 Criação de dashboards e indicadores com **Power BI**
+* 🗄️ Consultas e tratamento de dados utilizando **SQL e Oracle**
+* ⚙️ Automação de processos com **Python, Excel e VBA**
+* 🌐 Desenvolvimento de aplicações utilizando **Streamlit**
+* 💾 Desenvolvimento de sistemas utilizando **SQLite**
+* 🔧 Versionamento de projetos com **Git e GitHub**
 
 ---
 

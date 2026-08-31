@@ -4,8 +4,6 @@
 
 Profissional de **Logística** com experiência em operações, planejamento, indicadores e gestão, utilizando **dados e tecnologia para melhorar processos e resultados**. Atualmente, estou ampliando minha atuação na área de tecnologia, com foco em **Python, análise de dados e desenvolvimento de aplicações**, enquanto curso **Engenharia de Software**.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UlyssonFN&theme=github-compact)
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas

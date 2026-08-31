@@ -140,7 +140,7 @@ Desenvolvimento de análises, indicadores, dashboards e processos de tratamento 
 
 ## 🎓 Formação
 
-🎓 **Engenharia de Software** — Bacharelado.
+🎓 **Engenharia de Software** — Cursando.
 
 🎓 **Pós-graduação em Análise de Dados**.
 

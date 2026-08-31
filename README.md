@@ -140,11 +140,15 @@ Desenvolvimento de análises, indicadores, dashboards e processos de tratamento 
 
 ## 🎓 Formação
 
-🎓 **Engenharia de Software** — Bacharelado
-🎓 **Pós-graduação em Análise de Dados**
-🎓 **MBA em Business Intelligence**
-🎓 **Tecnólogo em Logística**
-🎓 **Técnico em Informática**
+🎓 **Engenharia de Software** — Bacharelado.
+
+🎓 **Pós-graduação em Análise de Dados**.
+
+🎓 **MBA em Business Intelligence**.
+
+🎓 **Tecnólogo em Logística**.
+
+🎓 **Técnico em Informática**.
 
 ---
 

@@ -138,6 +138,11 @@ Desenvolvimento de análises, indicadores, dashboards e processos de tratamento 
 
 🔗 [Acessar Portifólio](https://datastockbi.com.br/portfolio)
 
+### ⭐ Mini-SO no navegador para inclusão de crianças a tecnologia
+Projeto desenvolvido para inclusão de crianças com jogos educativos, sons, e de forma que não impacte em seu computador**.
+
+🔗 [Acessar Portifólio](https://datastockbi.com.br/anne)
+
 ---
 
 ## 🎓 Formação

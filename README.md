@@ -141,7 +141,7 @@ Desenvolvimento de análises, indicadores, dashboards e processos de tratamento 
 ### ⭐ Mini-SO no navegador para inclusão de crianças a tecnologia
 Projeto desenvolvido para inclusão de crianças com jogos educativos, sons, e de forma que não impacte em seu computador**.
 
-🔗 [Acessar Portifólio](https://datastockbi.com.br/anne)
+🔗 [Acessar SO Anne](https://datastockbi.com.br/anne)
 
 ---
 

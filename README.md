@@ -155,7 +155,7 @@ Projeto desenvolvido para inclusão de crianças com jogos educativos, sons, e d
 
 🎓 **Tecnólogo em Logística**.
 
-🎓 **Técnico em Informática**.
+🎓 **Técnico em Análise e Desenvolvimento de Sistemas**.
 
 ---
 
